@@ -1,0 +1,11 @@
+{
+  "schema": "hub.json (draft)",
+  "name": "Cyber, from our data",
+  "what_it_does": "A demonstration site: how the PrompTugal.news agentic team will capture and publish threat intelligence, and how to use the data, built from what exists today.",
+  "owner": "AgentiCCells",
+  "team": "factory@AgentiCCells.dinis, instructed by Dinis Cruz",
+  "licence": { "code": "Apache-2.0", "text": "CC BY 4.0" },
+  "repository": "https://github.com/AgentiCCells/AgentiCCells__Site__Cyber-Demo",
+  "live_address": "https://cyber-demo.agenticcells.site",
+  "version_from": "https://cyber-demo.agenticcells.site/version.json"
+}
